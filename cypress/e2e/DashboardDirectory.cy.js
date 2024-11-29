@@ -1,5 +1,5 @@
 import LoginPage from "../pom/login/login.cy.js";
-import DirectoryPage from "../pom/login/DirectoryPage.cy.js";
+import DirectoryPage from "../pom/login/DashboardDirectory.cy.js";
 
 describe('User Directory Page', () => {
     beforeEach(() => {
